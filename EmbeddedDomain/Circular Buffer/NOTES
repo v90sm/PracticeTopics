@@ -1,0 +1,12 @@
+
+
+Blocking queue: 
+Indicates that the queue blocks the accessing thread if it is full (when the queue is bounded) or becomes empty.
+If the queue is full, then adding a new element will block the accessing thread unless there is space available for the new element.
+Similarly, if the queue is empty, then accessing an element blocks the calling thread.
+
+
+Bounded:
+A Queueu for which a size is specified while it is created. FIXED size queue.
+An unbounded queue implies that the size of the queue is not specified while creating. 
+Therefore, the queue can grow dynamically as elements are added to it. 
