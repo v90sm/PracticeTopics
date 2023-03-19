@@ -1,6 +1,8 @@
 /**
 622. Design Circular Queue 
 https://leetcode.com/problems/design-circular-queue/description/
+Runtime: 31 ms  (Beats 30.5% )
+Memory: 16.8 MB (Beats 90.80%)
 */
 
 
